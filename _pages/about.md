@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Mechanical Eng.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email:</p>
+    <p>mh.mokhtarabadi@gmail.com</p>
+    <p>mh.mokhtarabadi@ut.ac.ir</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently studing Mechanical Engineering at MSc. degree in [University of Terhan](https://ut.ac.ir), 
+working jointly with [Dr. Saadat](https://sites.google.com/berkeley.edu/mohsen-saadat/home?authuser=1), and [Dr. Shirazi](https://scholar.google.com/citations?user=xq0kymMAAAAJ&hl=en). I received my BSc. in Mechanical Engineering from [University of Isfahan](https://ui.ac.ir), under the supervision of [Dr. Karimpour](http://eng.ui.ac.ir/~h.karimpour), and [Dr. hasanpour](https://engold.ui.ac.ir/~hasanpour/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are I) **Robotics and Mechatronics** with applications in haptic interface devices, II) **Artificial Neural Networks and Computer Vision** with applications in human body pose estimation, and III) **Dynamic modelling and Control** with applications in attitude control and tracking systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I enjoy working with hardwares. In fact, I have worked with [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), [Arduino](https://www.arduino.cc/), [Raspberry Pi](https://www.raspberrypi.org/), and [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) in my projects.
+I think there is no such things more satisfying than creating a device that can do a particular task. In short, *I like to make!*
